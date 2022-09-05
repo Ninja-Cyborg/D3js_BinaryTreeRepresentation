@@ -1,9 +1,10 @@
 # D3js_BinaryTreeRepresentation
 D3.js JavaScript Library Project
 It uses d3 library to create **Binary Tree Structure.** Moreover, shows data graphically
+# Interactive Structure, Branches Expand OnClick
 
 Screenshots:
-1.Marvel and DC Universe Movies
+1.Marvel and DC Universe Movies with IMBD Ratings(https://www.imdb.com/list/ls063236638/)
 ![image](https://user-images.githubusercontent.com/66517017/188517231-ffd8003f-1503-46c3-9249-96a7e26b982e.png)
 
 
